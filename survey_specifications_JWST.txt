@@ -1,0 +1,6 @@
+survey_length_in_arc_sec=4.4*60.
+survey_aspect_ratio=0.5
+redshift_width=0.1
+survey_resolution_in_arc_sec=0.1
+
+

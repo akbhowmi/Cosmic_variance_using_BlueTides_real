@@ -1,0 +1,6 @@
+survey_area_in_arc_sec_sq=1.*3600.**2.
+survey_aspect_ratio=0.6
+redshift_width=0.1
+survey_resolution_in_arc_sec=0.1
+
+
